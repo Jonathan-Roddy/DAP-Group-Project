@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WindowsClientExperimental/obj/Release/WindowsClientExperimental.csprojAssemblyReference.cache
+/WindowsClientExperimental/Resources
+/BusinessEntities/bin/Debug
+/BusinessEntities/obj/Debug
+/BussinessLayer/bin/Debug
+/BussinessLayer/obj/Debug
+/DatabaseLayer/bin/Debug
+/DatabaseLayer/obj/Debug
+/WindowsClientExperimental
